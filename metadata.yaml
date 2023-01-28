@@ -1,5 +1,8 @@
 _repo: The-star-dreamer-A-romance_69711
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69711-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Castle, Agnes
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4570
     wikipedia: https://en.wikipedia.org/wiki/Egerton_Castle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69711#The-star-dreamer-A-romance
 gutenberg_issued: '2023-01-05'
 identifiers:
   gutenberg: '69711'
